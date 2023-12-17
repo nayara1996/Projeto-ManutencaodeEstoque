@@ -1,0 +1,201 @@
+Id,Equipamento,Localizacao,TipoDeManutencao,Data,Valor,Fornecedor,LocalFornecedor
+1,Macaco,"Armazém B",Preventiva,12/10/2023,100,EquipaCenter,"Gavião Peixoto"
+2,Paleteira,"Armazém D",Preventiva,16/02/2023,1800,"Tech Center",Botucatu
+3,Macaco,"Armazém D",Corretiva,21/11/2023,100,EquipaCenter,"Belo Horizonte"
+4,Paleteira,"Armazém D",Preditiva,04/08/2022,1800,"Manutenção SA",Salvador
+5,Leitores,"Armazém A",Corretiva,04/08/2023,145,EquipaMais,Florianopolis
+6,"Ponte rolante","Armazém D",Preventiva,29/08/2022,140000,EquipaMais,"São Paulo"
+7,Leitores,"Armazém C",Preditiva,09/07/2022,145,"Tech Center",Salvador
+8,Macaco,"Armazém D",Preventiva,07/04/2022,150,EmbySeven,Campinas
+9,Esteira,"Armazém C",Corretiva,06/12/2022,14000,EquipaCenter,Taubate
+10,Escada,"Armazém A",Preventiva,25/12/2022,470,"Tech Center",Botucatu
+11,"Ponte rolante","Armazém C",Preventiva,30/07/2023,140000,"Tech Center",Florianopolis
+12,Leitores,"Armazém A",Corretiva,29/05/2023,145,EmbySeven,Salvador
+13,"Ponte rolante","Armazém D",Preditiva,27/05/2023,140000,"Tools SA",Florianopolis
+14,Macaco,"Armazém B",Preditiva,12/10/2023,100,"Tools SA","Belo Horizonte"
+15,Leitores,"Armazém C",Preditiva,12/10/2023,145,EquipaCenter,Taubate
+16,Empilhadeira,"Armazém B",Preventiva,11/08/2022,125000,EquipaMais,"Gavião Peixoto"
+17,Empilhadeira,"Armazém C",Preventiva,28/03/2022,125000,Conal,Botucatu
+18,Paleteira,"Armazém A",Preventiva,30/07/2022,1800,"Doutor Equipamentos","Rio De Janeiro"
+19,Macaco,"Armazém C",Preventiva,27/10/2023,100,"Tech Center","Gavião Peixoto"
+20,Escada,"Armazém A",Corretiva,10/07/2022,470,EquipaCenter,"Belo Horizonte"
+21,Paleteira,"Armazém B",Preditiva,16/06/2022,1800,Conal,Salvador
+22,Plataforma,"Armazém B",Corretiva,19/02/2023,8000,EquipaMais,Botucatu
+23,Macaco,"Armazém D",Preditiva,29/08/2022,150,EquipaCenter,Florianopolis
+24,Empilhadeira,"Armazém D",Preventiva,09/07/2022,125000,Conal,Taubate
+25,Leitores,"Armazém A",Preventiva,25/01/2023,145,EquipaCenter,Campinas
+26,Escada,"Armazém C",Preditiva,25/05/2023,470,EmbySeven,Campinas
+27,AGVs,"Armazém A",Corretiva,08/06/2023,275000,EmbySeven,"Rio De Janeiro"
+28,AGVs,"Armazém D",Preditiva,19/02/2023,275000,"Manutenção SA","Belo Horizonte"
+29,Paleteira,"Armazém B",Preventiva,07/11/2023,1800,EmbySeven,Taubate
+30,Paleteira,"Armazém C",Corretiva,30/01/2023,1800,"Tech Center","Belo Horizonte"
+31,Macaco,"Armazém A",Preditiva,04/03/2023,150,EquipaMais,"São Paulo"
+32,"Ponte rolante","Armazém A",Preventiva,03/05/2022,140000,EmbySeven,"Rio De Janeiro"
+33,Esteira,"Armazém C",Preditiva,21/03/2022,14000,Conal,"Belo Horizonte"
+34,AGVs,"Armazém B",Preditiva,30/06/2023,275000,EquipaMais,"Belo Horizonte"
+35,"Ponte rolante","Armazém B",Preditiva,16/01/2022,140000,EquipaMais,Florianopolis
+36,Plataforma,"Armazém A",Corretiva,14/08/2023,12000,EmbySeven,"Rio De Janeiro"
+37,Paleteira,"Armazém C",Preventiva,24/12/2022,1800,EquipaCenter,Taubate
+38,Escada,"Armazém B",Corretiva,22/01/2022,450,"Doutor Equipamentos","São Paulo"
+39,"Ponte rolante","Armazém D",Corretiva,01/02/2023,140000,"Tools SA","Gavião Peixoto"
+40,Leitores,"Armazém D",Corretiva,06/04/2023,145,"Tech Center",Salvador
+41,Macaco,"Armazém D",Preditiva,14/11/2023,150,Conal,"São José dos Campos"
+42,Empilhadeira,"Armazém C",Corretiva,01/02/2023,125000,Conal,Florianopolis
+43,Plataforma,"Armazém C",Preventiva,23/08/2023,12000,EquipaMais,Salvador
+44,Esteira,"Armazém C",Preventiva,23/10/2022,14000,"Tech Center",Florianopolis
+45,Plataforma,"Armazém C",Preventiva,03/03/2023,12000,"Tools SA",Campinas
+46,Empilhadeira,"Armazém C",Preditiva,01/08/2023,125000,EquipaMais,"São José dos Campos"
+47,Esteira,"Armazém B",Preventiva,19/08/2023,14000,Conal,Salvador
+48,"Ponte rolante","Armazém A",Corretiva,23/08/2022,140000,"Doutor Equipamentos","São Paulo"
+49,Plataforma,"Armazém A",Preventiva,05/09/2022,15000,EmbySeven,"Gavião Peixoto"
+50,Esteira,"Armazém D",Corretiva,16/08/2022,14000,EquipaCenter,Florianopolis
+51,"Ponte rolante","Armazém B",Corretiva,06/08/2023,140000,"Manutenção SA",Salvador
+52,Leitores,"Armazém A",Corretiva,16/07/2022,145,EquipaMais,Campinas
+53,Leitores,"Armazém C",Corretiva,06/12/2022,145,EquipaCenter,Taubate
+54,"Ponte rolante","Armazém D",Preditiva,20/04/2023,140000,"Doutor Equipamentos","São Paulo"
+55,Empilhadeira,"Armazém A",Preventiva,19/04/2022,125000,EquipaMais,Salvador
+56,Macaco,"Armazém B",Preventiva,16/08/2022,100,"Tools SA",Botucatu
+57,Empilhadeira,"Armazém A",Preditiva,06/08/2022,125000,"Tools SA","Gavião Peixoto"
+58,Empilhadeira,"Armazém C",Corretiva,13/08/2022,125000,Conal,Florianopolis
+59,"Ponte rolante","Armazém B",Preventiva,10/08/2022,140000,Conal,Botucatu
+60,Macaco,"Armazém A",Preventiva,23/10/2022,100,"Doutor Equipamentos","Belo Horizonte"
+61,Leitores,"Armazém C",Corretiva,19/01/2022,145,"Manutenção SA",Florianopolis
+62,Paleteira,"Armazém C",Corretiva,10/08/2022,1800,Conal,"Rio De Janeiro"
+63,Plataforma,"Armazém A",Preditiva,21/03/2022,12000,EquipaMais,"São Paulo"
+64,AGVs,"Armazém D",Preventiva,04/09/2023,275000,EquipaCenter,"Belo Horizonte"
+65,Leitores,"Armazém B",Corretiva,19/02/2023,145,EquipaMais,Salvador
+66,Paleteira,"Armazém C",Preditiva,27/11/2023,1800,"Tech Center","São José dos Campos"
+67,Paleteira,"Armazém B",Preditiva,01/02/2023,1800,Conal,Florianopolis
+68,"Ponte rolante","Armazém B",Preventiva,01/08/2023,140000,"Manutenção SA",Botucatu
+69,Escada,"Armazém A",Preventiva,13/03/2022,450,"Doutor Equipamentos","São Paulo"
+70,AGVs,"Armazém B",Corretiva,01/08/2023,275000,EquipaMais,"Rio De Janeiro"
+71,Plataforma,"Armazém C",Corretiva,29/07/2022,12000,"Manutenção SA",Salvador
+72,Empilhadeira,"Armazém A",Preditiva,04/03/2022,125000,"Doutor Equipamentos","São José dos Campos"
+73,"Ponte rolante","Armazém D",Preditiva,03/09/2023,140000,"Doutor Equipamentos","São Paulo"
+74,"Ponte rolante","Armazém D",Corretiva,30/06/2023,140000,EquipaMais,Botucatu
+75,Esteira,"Armazém D",Corretiva,15/09/2023,14000,EquipaCenter,Taubate
+76,"Ponte rolante","Armazém A",Preventiva,22/09/2023,140000,EquipaMais,"Belo Horizonte"
+77,Paleteira,"Armazém D",Corretiva,03/03/2023,1800,"Doutor Equipamentos",Salvador
+78,Leitores,"Armazém B",Preventiva,06/08/2022,145,EquipaMais,Taubate
+79,AGVs,"Armazém D",Preventiva,09/12/2023,275000,EquipaCenter,Botucatu
+80,Escada,"Armazém D",Preventiva,29/03/2022,470,"Manutenção SA",Salvador
+81,AGVs,"Armazém A",Preditiva,16/12/2022,275000,EmbySeven,Botucatu
+82,Leitores,"Armazém A",Preventiva,02/11/2023,145,"Doutor Equipamentos","São Paulo"
+83,Paleteira,"Armazém B",Preditiva,22/09/2023,1800,"Manutenção SA",Salvador
+84,Leitores,"Armazém B",Corretiva,16/12/2022,145,Conal,"São Paulo"
+85,Plataforma,"Armazém B",Corretiva,16/07/2022,12000,EquipaMais,Campinas
+86,Paleteira,"Armazém D",Corretiva,22/01/2022,1800,"Tools SA",Botucatu
+87,Macaco,"Armazém D",Preventiva,05/03/2022,100,Conal,"Gavião Peixoto"
+88,Plataforma,"Armazém D",Corretiva,06/08/2023,12000,"Doutor Equipamentos","São Paulo"
+89,Esteira,"Armazém B",Corretiva,01/09/2023,14000,EquipaCenter,Botucatu
+90,Escada,"Armazém C",Corretiva,13/11/2022,470,"Tech Center",Salvador
+91,Macaco,"Armazém D",Corretiva,25/11/2023,150,"Tech Center","Rio De Janeiro"
+92,Plataforma,"Armazém C",Preditiva,19/07/2022,8000,EquipaCenter,Botucatu
+93,AGVs,"Armazém A",Preventiva,06/01/2023,350000,EquipaMais,"São Paulo"
+94,Leitores,"Armazém B",Preventiva,17/08/2023,170,"Tech Center","Gavião Peixoto"
+95,AGVs,"Armazém C",Preventiva,13/04/2023,350000,EquipaCenter,"São Paulo"
+96,Macaco,"Armazém D",Preditiva,16/08/2022,100,EquipaCenter,Botucatu
+97,"Ponte rolante","Armazém C",Preditiva,14/01/2023,140000,"Tools SA","Gavião Peixoto"
+98,Empilhadeira,"Armazém A",Preventiva,05/04/2022,125000,"Tech Center","Belo Horizonte"
+99,"Ponte rolante","Armazém C",Preditiva,22/01/2022,140000,EquipaCenter,"São José dos Campos"
+100,Esteira,"Armazém B",Preditiva,25/02/2023,14000,Conal,"São José dos Campos"
+101,Esteira,"Armazém A",Preventiva,08/08/2023,14000,"Doutor Equipamentos",Taubate
+102,AGVs,"Armazém D",Preventiva,23/08/2022,275000,EquipaCenter,Florianopolis
+103,Plataforma,"Armazém A",Preditiva,09/10/2022,12000,EquipaCenter,"São José dos Campos"
+104,Plataforma,"Armazém A",Preditiva,30/07/2022,15000,"Tools SA","Gavião Peixoto"
+105,"Ponte rolante","Armazém D",Preditiva,27/05/2023,140000,EquipaCenter,Taubate
+106,Macaco,"Armazém C",Preventiva,04/06/2023,150,EquipaMais,Salvador
+107,Leitores,"Armazém A",Preventiva,19/06/2023,145,Conal,Salvador
+108,Escada,"Armazém D",Preventiva,07/04/2022,470,EquipaMais,Salvador
+109,Esteira,"Armazém D",Corretiva,02/05/2023,14000,"Doutor Equipamentos","São José dos Campos"
+110,Paleteira,"Armazém C",Preditiva,29/08/2022,1800,EquipaCenter,Florianopolis
+111,Esteira,"Armazém B",Corretiva,04/12/2022,14000,"Doutor Equipamentos","Rio De Janeiro"
+112,Plataforma,"Armazém B",Preditiva,17/08/2023,12000,"Tools SA",Florianopolis
+113,Empilhadeira,"Armazém D",Preventiva,25/06/2023,125000,"Tech Center",Botucatu
+114,Escada,"Armazém A",Preventiva,14/11/2023,450,"Tech Center","São Paulo"
+115,"Ponte rolante","Armazém C",Preditiva,19/02/2023,140000,Conal,"Rio De Janeiro"
+116,AGVs,"Armazém D",Preditiva,03/03/2023,275000,"Tools SA","Gavião Peixoto"
+117,Paleteira,"Armazém B",Corretiva,04/08/2023,1800,"Tools SA",Botucatu
+118,Macaco,"Armazém C",Corretiva,01/08/2023,150,"Manutenção SA",Campinas
+119,Esteira,"Armazém D",Preventiva,05/12/2022,14000,"Tech Center",Campinas
+120,AGVs,"Armazém C",Preditiva,31/01/2023,275000,"Doutor Equipamentos","Rio De Janeiro"
+121,AGVs,"Armazém C",Preventiva,07/02/2023,275000,Conal,"Rio De Janeiro"
+122,Esteira,"Armazém C",Corretiva,21/03/2022,14000,"Tech Center","São Paulo"
+123,Empilhadeira,"Armazém D",Corretiva,03/05/2022,125000,EquipaCenter,"São José dos Campos"
+124,AGVs,"Armazém C",Preditiva,23/08/2023,275000,EquipaMais,Botucatu
+125,"Ponte rolante","Armazém D",Corretiva,03/11/2022,140000,EmbySeven,Florianopolis
+126,Paleteira,"Armazém C",Preventiva,15/03/2023,1800,EquipaMais,Campinas
+127,Paleteira,"Armazém A",Preventiva,14/04/2022,1800,EquipaCenter,"São José dos Campos"
+128,Escada,"Armazém A",Preventiva,03/06/2023,470,"Tools SA","São José dos Campos"
+129,Escada,"Armazém C",Preditiva,06/08/2022,470,EmbySeven,"Rio De Janeiro"
+130,Escada,"Armazém B",Preditiva,14/08/2023,470,"Manutenção SA","Belo Horizonte"
+131,Escada,"Armazém A",Preventiva,29/08/2022,470,Conal,Botucatu
+132,Escada,"Armazém D",Corretiva,22/01/2022,470,EmbySeven,"Gavião Peixoto"
+133,Escada,"Armazém C",Corretiva,16/01/2022,450,"Tools SA","São Paulo"
+134,Macaco,"Armazém C",Corretiva,03/11/2022,150,"Tech Center",Campinas
+135,Plataforma,"Armazém C",Preditiva,22/01/2022,10000,"Doutor Equipamentos","Belo Horizonte"
+136,"Ponte rolante","Armazém C",Corretiva,03/03/2023,140000,"Manutenção SA","Gavião Peixoto"
+137,Empilhadeira,"Armazém D",Preditiva,04/05/2023,125000,"Manutenção SA",Taubate
+138,Esteira,"Armazém A",Preditiva,02/12/2023,14000,EquipaMais,Salvador
+139,AGVs,"Armazém C",Preditiva,03/08/2022,275000,"Manutenção SA","São José dos Campos"
+140,Plataforma,"Armazém A",Preditiva,17/02/2023,12000,Conal,"Rio De Janeiro"
+141,Esteira,"Armazém B",Preventiva,02/12/2023,14000,"Doutor Equipamentos",Campinas
+142,Macaco,"Armazém A",Preventiva,22/01/2022,150,"Doutor Equipamentos",Florianopolis
+143,AGVs,"Armazém C",Corretiva,12/08/2022,275000,EquipaCenter,"São José dos Campos"
+144,Escada,"Armazém A",Corretiva,14/08/2023,470,"Tech Center",Florianopolis
+145,"Ponte rolante","Armazém C",Preditiva,07/01/2022,140000,"Tools SA",Florianopolis
+146,Paleteira,"Armazém C",Preventiva,23/08/2023,1800,Conal,Botucatu
+147,Esteira,"Armazém B",Preditiva,03/08/2022,14000,Conal,Salvador
+148,Esteira,"Armazém C",Preventiva,12/08/2022,14000,EquipaCenter,Botucatu
+149,AGVs,"Armazém B",Preditiva,16/12/2022,275000,Conal,"Belo Horizonte"
+150,Empilhadeira,"Armazém D",Preventiva,14/08/2023,125000,"Tools SA",Salvador
+151,"Ponte rolante","Armazém C",Preventiva,19/01/2022,140000,EmbySeven,Campinas
+152,Plataforma,"Armazém D",Preditiva,01/02/2023,8000,EquipaMais,Botucatu
+153,Leitores,"Armazém D",Preventiva,23/08/2023,145,"Tech Center",Taubate
+154,Esteira,"Armazém C",Corretiva,09/05/2022,14000,EmbySeven,Taubate
+155,Leitores,"Armazém C",Preditiva,04/08/2023,300,EmbySeven,"Belo Horizonte"
+156,AGVs,"Armazém B",Preventiva,21/09/2023,275000,"Doutor Equipamentos",Florianopolis
+157,Esteira,"Armazém A",Preditiva,19/07/2022,14000,EquipaMais,Florianopolis
+158,Macaco,"Armazém D",Preventiva,13/04/2023,100,"Doutor Equipamentos","Gavião Peixoto"
+159,Escada,"Armazém C",Preventiva,05/04/2022,470,"Manutenção SA",Campinas
+160,"Ponte rolante","Armazém C",Preventiva,04/08/2023,140000,EmbySeven,Taubate
+161,Escada,"Armazém B",Corretiva,03/10/2022,470,"Tools SA","São José dos Campos"
+162,"Ponte rolante","Armazém D",Preditiva,02/02/2022,140000,EquipaCenter,"São José dos Campos"
+163,Plataforma,"Armazém C",Preditiva,27/10/2023,12000,"Manutenção SA",Campinas
+164,Plataforma,"Armazém B",Preventiva,03/09/2023,12000,Conal,"São Paulo"
+165,Esteira,"Armazém A",Corretiva,05/03/2022,14000,"Doutor Equipamentos","Rio De Janeiro"
+166,"Ponte rolante","Armazém C",Preditiva,23/11/2023,140000,EmbySeven,"Rio De Janeiro"
+167,Plataforma,"Armazém B",Corretiva,13/09/2023,12000,"Doutor Equipamentos",Florianopolis
+168,"Ponte rolante","Armazém C",Corretiva,26/04/2023,140000,EquipaCenter,Botucatu
+169,Paleteira,"Armazém B",Preventiva,21/03/2022,1800,"Tools SA","São Paulo"
+170,Empilhadeira,"Armazém B",Preditiva,09/12/2022,125000,"Doutor Equipamentos",Florianopolis
+171,Macaco,"Armazém B",Preventiva,14/01/2023,150,"Doutor Equipamentos",Salvador
+172,AGVs,"Armazém C",Corretiva,14/01/2023,275000,EquipaCenter,"Gavião Peixoto"
+173,Escada,"Armazém D",Preditiva,29/03/2022,470,EquipaCenter,Salvador
+174,Plataforma,"Armazém D",Preventiva,01/05/2023,10000,"Doutor Equipamentos","Belo Horizonte"
+175,Empilhadeira,"Armazém D",Preventiva,03/09/2023,125000,EquipaMais,Salvador
+176,AGVs,"Armazém A",Corretiva,07/11/2022,275000,"Manutenção SA",Salvador
+177,Empilhadeira,"Armazém B",Preditiva,26/04/2022,125000,EquipaCenter,"Belo Horizonte"
+178,AGVs,"Armazém B",Corretiva,04/09/2023,275000,"Manutenção SA",Florianopolis
+179,Macaco,"Armazém A",Preventiva,17/02/2023,150,"Doutor Equipamentos",Campinas
+180,"Ponte rolante","Armazém B",Preditiva,05/04/2022,140000,"Tools SA","São Paulo"
+181,Paleteira,"Armazém A",Corretiva,11/10/2023,1800,EquipaMais,Taubate
+182,AGVs,"Armazém D",Preditiva,18/06/2023,275000,"Doutor Equipamentos",Salvador
+183,Esteira,"Armazém A",Preditiva,27/05/2023,14000,"Tools SA",Campinas
+184,Plataforma,"Armazém A",Corretiva,11/10/2023,12000,EmbySeven,"Rio De Janeiro"
+185,Paleteira,"Armazém A",Corretiva,30/05/2023,1800,"Doutor Equipamentos","Belo Horizonte"
+186,Leitores,"Armazém B",Preventiva,13/08/2022,145,EquipaCenter,Taubate
+187,Plataforma,"Armazém D",Corretiva,16/02/2023,12000,"Tech Center",Campinas
+188,Esteira,"Armazém A",Preventiva,10/08/2022,14000,"Tech Center","Belo Horizonte"
+189,AGVs,"Armazém C",Preventiva,21/03/2022,275000,EquipaMais,"Gavião Peixoto"
+190,Escada,"Armazém B",Corretiva,31/01/2022,470,EquipaMais,Salvador
+191,Macaco,"Armazém B",Preventiva,16/06/2022,150,EmbySeven,Taubate
+192,Paleteira,"Armazém B",Corretiva,19/04/2022,1800,Conal,Salvador
+193,Macaco,"Armazém C",Corretiva,16/04/2022,150,EquipaCenter,Salvador
+194,Empilhadeira,"Armazém B",Preditiva,11/10/2023,125000,EmbySeven,"Gavião Peixoto"
+195,Leitores,"Armazém D",Corretiva,10/08/2022,145,"Tools SA",Florianopolis
+196,Empilhadeira,"Armazém B",Corretiva,04/01/2023,125000,"Manutenção SA",Botucatu
+197,Leitores,"Armazém B",Preventiva,23/08/2023,300,EquipaCenter,"Belo Horizonte"
+198,AGVs,"Armazém D",Preditiva,15/04/2022,275000,"Manutenção SA","Rio De Janeiro"
+199,Macaco,"Armazém A",Preventiva,13/04/2023,150,"Doutor Equipamentos","São José dos Campos"
+200,Macaco,"Armazém D",Corretiva,22/04/2023,150,"Tech Center","São Paulo"
