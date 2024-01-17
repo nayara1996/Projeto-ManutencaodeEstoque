@@ -1,0 +1,201 @@
+Id,Custo,Codigo,Quantidade,Localizacao,Data,ValorUnitario
+1,"Mao de Obra",772,30,"Armazém D",09/07/2023,5000
+2,Recebimento,171,30,"Armazém C",09/07/2023,3000
+3,Preparacao,889,1,"Armazém C",23/08/2022,2500
+4,"Deslocamento Medio",275,30,"Armazém B",03/03/2022,15000
+5,Expedicao,160,1,"Armazém B",27/11/2022,3200
+6,Recebimento,171,20,"Armazém A",29/03/2023,3000
+7,Expedicao,160,10,"Armazém B",09/07/2023,3200
+8,Estocagem,579,20,"Armazém C",03/03/2022,4500
+9,"Deslocamento Medio",275,2,"Armazém B",08/06/2022,15000
+10,"Mao de Obra",772,2,"Armazém A",14/08/2022,5000
+11,"Deslocamento Medio",275,2,"Armazém A",08/06/2022,15000
+12,"Mao de Obra",772,30,"Armazém A",14/09/2022,5000
+13,Recebimento,171,10,"Armazém A",08/06/2022,3000
+14,"Mao de Obra",772,2,"Armazém D",27/11/2022,5000
+15,Recebimento,171,10,"Armazém C",15/08/2022,3000
+16,Estocagem,579,30,"Armazém D",03/03/2022,4500
+17,Estocagem,579,1,"Armazém B",23/08/2022,4500
+18,"Mao de Obra",772,1,"Armazém D",08/06/2022,5000
+19,"Mao de Obra",772,20,"Armazém B",27/11/2022,5000
+20,Expedicao,160,2,"Armazém D",27/11/2022,3200
+21,"Mao de Obra",772,30,"Armazém C",03/03/2022,5000
+22,Recebimento,171,30,"Armazém A",30/01/2022,3000
+23,"Deslocamento Medio",275,10,"Armazém D",10/07/2023,15000
+24,Estocagem,579,2,"Armazém B",10/07/2023,4500
+25,Preparacao,889,30,"Armazém D",30/01/2022,2500
+26,"Deslocamento Medio",275,20,"Armazém A",02/11/2022,15000
+27,"Mao de Obra",772,2,"Armazém A",21/03/2023,5000
+28,Estocagem,579,20,"Armazém B",14/08/2022,4500
+29,"Mao de Obra",772,20,"Armazém B",08/06/2022,5000
+30,Estocagem,579,1,"Armazém A",27/11/2022,4500
+31,Preparacao,889,2,"Armazém B",29/03/2023,2500
+32,"Mao de Obra",772,30,"Armazém C",22/04/2022,5000
+33,Preparacao,889,30,"Armazém B",25/05/2022,2500
+34,"Mao de Obra",772,20,"Armazém B",14/08/2022,5000
+35,"Mao de Obra",772,1,"Armazém C",10/07/2023,5000
+36,Expedicao,160,2,"Armazém A",29/05/2022,3200
+37,"Deslocamento Medio",275,20,"Armazém B",16/12/2023,15000
+38,Expedicao,160,30,"Armazém C",14/09/2022,3200
+39,Expedicao,160,20,"Armazém C",22/04/2022,3200
+40,"Mao de Obra",772,1,"Armazém C",10/07/2023,5000
+41,"Mao de Obra",772,30,"Armazém D",03/03/2022,5000
+42,Estocagem,579,10,"Armazém B",27/11/2022,4500
+43,"Deslocamento Medio",275,30,"Armazém B",01/02/2023,15000
+44,Expedicao,160,10,"Armazém D",10/07/2023,3200
+45,Recebimento,171,2,"Armazém A",21/03/2023,3000
+46,"Deslocamento Medio",275,1,"Armazém D",25/05/2022,15000
+47,"Mao de Obra",772,2,"Armazém B",16/12/2023,5000
+48,Preparacao,889,30,"Armazém C",14/09/2022,2500
+49,"Deslocamento Medio",275,10,"Armazém A",09/07/2023,15000
+50,Estocagem,579,20,"Armazém D",16/12/2023,4500
+51,Expedicao,160,1,"Armazém D",14/08/2022,3200
+52,Preparacao,889,10,"Armazém D",16/12/2023,2500
+53,Expedicao,160,20,"Armazém D",08/06/2022,3200
+54,Expedicao,160,30,"Armazém A",27/11/2022,3200
+55,Recebimento,171,2,"Armazém A",30/01/2022,3000
+56,Estocagem,579,20,"Armazém C",14/09/2022,4500
+57,Estocagem,579,30,"Armazém B",29/03/2023,4500
+58,"Mao de Obra",772,20,"Armazém A",14/08/2022,5000
+59,Estocagem,579,20,"Armazém C",29/03/2023,4500
+60,Expedicao,160,2,"Armazém A",16/12/2023,3200
+61,Estocagem,579,1,"Armazém A",01/02/2023,4500
+62,Preparacao,889,2,"Armazém B",10/07/2023,2500
+63,Estocagem,579,30,"Armazém C",29/03/2023,4500
+64,"Deslocamento Medio",275,2,"Armazém C",01/02/2023,15000
+65,"Deslocamento Medio",275,1,"Armazém A",02/11/2022,15000
+66,"Mao de Obra",772,1,"Armazém A",29/05/2022,5000
+67,Preparacao,889,30,"Armazém D",21/03/2023,2500
+68,Estocagem,579,10,"Armazém D",21/03/2023,4500
+69,"Deslocamento Medio",275,1,"Armazém B",14/08/2022,15000
+70,Estocagem,579,10,"Armazém D",29/03/2023,4500
+71,Preparacao,889,30,"Armazém C",10/07/2023,2500
+72,Recebimento,171,30,"Armazém B",10/07/2023,3000
+73,"Deslocamento Medio",275,1,"Armazém D",25/05/2022,15000
+74,"Mao de Obra",772,30,"Armazém B",23/08/2022,5000
+75,Estocagem,579,30,"Armazém C",21/03/2023,4500
+76,Recebimento,171,10,"Armazém C",29/05/2022,3000
+77,Recebimento,171,1,"Armazém B",23/08/2022,3000
+78,"Mao de Obra",772,30,"Armazém B",22/04/2022,5000
+79,Expedicao,160,2,"Armazém D",30/01/2022,3200
+80,Recebimento,171,2,"Armazém C",15/08/2022,3000
+81,"Mao de Obra",772,2,"Armazém D",09/07/2023,5000
+82,"Mao de Obra",772,30,"Armazém C",10/07/2023,5000
+83,Expedicao,160,20,"Armazém B",14/08/2022,3200
+84,Preparacao,889,10,"Armazém C",14/09/2022,2500
+85,Estocagem,579,20,"Armazém A",15/08/2022,4500
+86,Estocagem,579,20,"Armazém D",22/04/2022,4500
+87,"Mao de Obra",772,1,"Armazém B",03/03/2022,5000
+88,Estocagem,579,2,"Armazém D",14/09/2022,4500
+89,Preparacao,889,30,"Armazém D",21/03/2023,2500
+90,Expedicao,160,10,"Armazém B",29/05/2022,3200
+91,Preparacao,889,2,"Armazém A",01/02/2023,2500
+92,Expedicao,160,10,"Armazém A",02/11/2022,3200
+93,"Deslocamento Medio",275,30,"Armazém A",08/06/2022,15000
+94,Estocagem,579,10,"Armazém C",10/07/2023,4500
+95,Expedicao,160,20,"Armazém C",29/05/2022,3200
+96,"Deslocamento Medio",275,20,"Armazém D",10/07/2023,15000
+97,Recebimento,171,1,"Armazém C",29/05/2022,3000
+98,Estocagem,579,20,"Armazém A",08/08/2022,4500
+99,Expedicao,160,10,"Armazém B",02/11/2022,3200
+100,Expedicao,160,10,"Armazém A",09/07/2023,3200
+101,"Deslocamento Medio",275,30,"Armazém C",08/06/2022,15000
+102,Recebimento,171,1,"Armazém B",29/03/2023,3000
+103,Preparacao,889,1,"Armazém A",10/07/2023,2500
+104,Preparacao,889,20,"Armazém C",14/09/2022,2500
+105,Estocagem,579,20,"Armazém A",08/06/2022,4500
+106,Expedicao,160,10,"Armazém B",29/03/2023,3200
+107,Estocagem,579,20,"Armazém C",30/01/2022,4500
+108,Expedicao,160,20,"Armazém C",29/03/2023,3200
+109,"Mao de Obra",772,2,"Armazém D",08/06/2022,5000
+110,Expedicao,160,10,"Armazém D",21/03/2023,3200
+111,Estocagem,579,30,"Armazém B",22/04/2022,4500
+112,"Deslocamento Medio",275,2,"Armazém A",01/02/2023,15000
+113,Expedicao,160,2,"Armazém C",21/03/2023,3200
+114,"Deslocamento Medio",275,1,"Armazém C",30/01/2022,15000
+115,"Mao de Obra",772,1,"Armazém A",15/08/2022,5000
+116,"Deslocamento Medio",275,2,"Armazém D",02/11/2022,15000
+117,"Deslocamento Medio",275,2,"Armazém A",29/05/2022,15000
+118,"Deslocamento Medio",275,1,"Armazém C",09/07/2023,15000
+119,Recebimento,171,2,"Armazém C",14/08/2022,3000
+120,Recebimento,171,20,"Armazém D",14/09/2022,3000
+121,Recebimento,171,30,"Armazém B",01/02/2023,3000
+122,Recebimento,171,20,"Armazém C",27/11/2022,3000
+123,"Deslocamento Medio",275,1,"Armazém B",08/06/2022,15000
+124,"Mao de Obra",772,20,"Armazém A",29/03/2023,5000
+125,"Mao de Obra",772,30,"Armazém D",08/06/2022,5000
+126,Preparacao,889,20,"Armazém D",14/09/2022,2500
+127,Recebimento,171,30,"Armazém B",28/10/2022,3000
+128,"Deslocamento Medio",275,1,"Armazém A",03/03/2022,15000
+129,"Mao de Obra",772,2,"Armazém D",29/03/2023,5000
+130,Preparacao,889,10,"Armazém B",27/11/2022,2500
+131,Estocagem,579,20,"Armazém B",09/07/2023,4500
+132,Estocagem,579,2,"Armazém A",30/01/2022,4500
+133,Estocagem,579,30,"Armazém B",03/03/2022,4500
+134,Recebimento,171,2,"Armazém A",29/05/2022,3000
+135,"Mao de Obra",772,2,"Armazém B",14/09/2022,5000
+136,"Deslocamento Medio",275,30,"Armazém A",09/07/2023,15000
+137,Preparacao,889,10,"Armazém D",08/08/2022,2500
+138,Estocagem,579,2,"Armazém D",14/08/2022,4500
+139,"Mao de Obra",772,30,"Armazém A",29/03/2023,5000
+140,Expedicao,160,10,"Armazém D",29/03/2023,3200
+141,"Mao de Obra",772,2,"Armazém A",10/07/2023,5000
+142,Expedicao,160,20,"Armazém A",28/10/2022,3200
+143,Recebimento,171,30,"Armazém B",02/11/2022,3000
+144,"Mao de Obra",772,30,"Armazém B",29/03/2023,5000
+145,"Mao de Obra",772,10,"Armazém A",28/10/2022,5000
+146,Expedicao,160,1,"Armazém B",08/06/2022,3200
+147,Expedicao,160,20,"Armazém D",08/06/2022,3200
+148,Recebimento,171,30,"Armazém B",14/08/2022,3000
+149,Estocagem,579,1,"Armazém D",08/06/2022,4500
+150,Estocagem,579,1,"Armazém D",25/05/2022,4500
+151,Estocagem,579,1,"Armazém B",15/08/2022,4500
+152,Recebimento,171,30,"Armazém D",21/03/2023,3000
+153,"Mao de Obra",772,2,"Armazém D",29/03/2023,5000
+154,"Mao de Obra",772,10,"Armazém B",30/01/2022,5000
+155,"Deslocamento Medio",275,10,"Armazém D",30/01/2022,15000
+156,Expedicao,160,1,"Armazém B",28/10/2022,3200
+157,Preparacao,889,2,"Armazém B",14/08/2022,2500
+158,Estocagem,579,2,"Armazém B",09/07/2023,4500
+159,Estocagem,579,2,"Armazém C",23/08/2022,4500
+160,Recebimento,171,2,"Armazém A",14/08/2022,3000
+161,Estocagem,579,10,"Armazém D",08/06/2022,4500
+162,Preparacao,889,20,"Armazém B",15/08/2022,2500
+163,"Deslocamento Medio",275,1,"Armazém A",14/09/2022,15000
+164,Expedicao,160,10,"Armazém B",03/03/2022,3200
+165,Recebimento,171,1,"Armazém A",14/08/2022,3000
+166,Expedicao,160,20,"Armazém A",29/05/2022,3200
+167,Preparacao,889,20,"Armazém A",22/04/2022,2500
+168,Preparacao,889,30,"Armazém C",01/02/2023,2500
+169,Preparacao,889,30,"Armazém B",08/06/2022,2500
+170,Expedicao,160,10,"Armazém C",29/03/2023,3200
+171,Expedicao,160,30,"Armazém D",23/08/2022,3200
+172,"Mao de Obra",772,2,"Armazém C",01/02/2023,5000
+173,Estocagem,579,2,"Armazém C",09/07/2023,4500
+174,"Deslocamento Medio",275,20,"Armazém B",14/08/2022,15000
+175,Recebimento,171,1,"Armazém A",02/11/2022,3000
+176,"Deslocamento Medio",275,1,"Armazém A",08/06/2022,15000
+177,Recebimento,171,1,"Armazém B",02/11/2022,3000
+178,Preparacao,889,2,"Armazém D",30/01/2022,2500
+179,Expedicao,160,20,"Armazém D",28/10/2022,3200
+180,Expedicao,160,10,"Armazém D",09/07/2023,3200
+181,"Mao de Obra",772,1,"Armazém D",16/12/2023,5000
+182,"Deslocamento Medio",275,2,"Armazém A",08/08/2022,15000
+183,Recebimento,171,30,"Armazém A",08/06/2022,3000
+184,Preparacao,889,10,"Armazém B",29/03/2023,2500
+185,"Deslocamento Medio",275,1,"Armazém A",02/11/2022,15000
+186,Estocagem,579,20,"Armazém B",09/07/2023,4500
+187,"Mao de Obra",772,1,"Armazém A",09/07/2023,5000
+188,Estocagem,579,20,"Armazém A",08/06/2022,4500
+189,Preparacao,889,1,"Armazém B",14/09/2022,2500
+190,"Deslocamento Medio",275,10,"Armazém D",02/11/2022,15000
+191,"Deslocamento Medio",275,30,"Armazém D",22/04/2022,15000
+192,Recebimento,171,30,"Armazém D",30/01/2022,3000
+193,"Mao de Obra",772,2,"Armazém A",29/03/2023,5000
+194,Preparacao,889,10,"Armazém A",01/02/2023,2500
+195,Preparacao,889,30,"Armazém D",25/05/2022,2500
+196,"Mao de Obra",772,30,"Armazém B",25/05/2022,5000
+197,Estocagem,579,30,"Armazém A",14/09/2022,4500
+198,Preparacao,889,2,"Armazém A",14/09/2022,2500
+199,"Mao de Obra",772,30,"Armazém A",30/01/2022,5000
+200,"Deslocamento Medio",275,20,"Armazém B",27/11/2022,15000

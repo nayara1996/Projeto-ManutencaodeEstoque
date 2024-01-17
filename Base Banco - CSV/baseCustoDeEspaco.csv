@@ -1,0 +1,201 @@
+Id,Custo,Codigo,Quantidade,Localizacao,Fornecedor,Data,Valor
+1,Limpeza,134,2,"Armazém C",MilClean,25/05/2022,10200
+2,"Seguro Carga",875,20,"Armazém B","Porto Seguro",29/03/2023,1970
+3,IPTU,102,30,"Armazém C","Prefeitura Municipal",14/08/2022,24000
+4,"Energia Eletrica",456,1,"Armazém D","EDP Brasil",16/12/2023,300500
+5,"Ar Condicionado",217,30,"Armazém B",Frigelar,09/07/2023,2170
+6,"Seguro Carga",875,30,"Armazém C","Porto Seguro",25/05/2022,1970
+7,"Seguro Carga",875,10,"Armazém C","Porto Seguro",21/03/2023,1970
+8,Limpeza,134,1,"Armazém A",MilClean,08/06/2022,10200
+9,"Energia Eletrica",456,10,"Armazém A","EDP Brasil",30/01/2022,300500
+10,"Energia Eletrica",456,10,"Armazém A","EDP Brasil",08/06/2022,300500
+11,IPTU,102,30,"Armazém A","Prefeitura Municipal",23/08/2022,24000
+12,Limpeza,134,1,"Armazém A",MilClean,08/06/2022,10200
+13,Aluguel,476,30,"Armazém C","Locadora SA",03/03/2022,20550
+14,Agua,579,20,"Armazém C",SABESP,14/09/2022,80050
+15,Limpeza,134,20,"Armazém B",MilClean,16/12/2023,10200
+16,Agua,579,1,"Armazém A",SABESP,10/07/2023,80050
+17,Agua,579,20,"Armazém A",SABESP,25/05/2022,80050
+18,IPTU,102,10,"Armazém B","Prefeitura Municipal",01/02/2023,24000
+19,"Seguro Local",147,20,"Armazém C","Mapfre Seguros",09/07/2023,2100
+20,IPTU,102,20,"Armazém D","Prefeitura Municipal",16/12/2023,24000
+21,"Seguro Carga",875,30,"Armazém C","Porto Seguro",09/07/2023,1970
+22,Aluguel,476,2,"Armazém B","Locadora SA",29/05/2022,20550
+23,Agua,579,10,"Armazém C",SABESP,29/03/2023,80050
+24,Agua,579,20,"Armazém A",SABESP,14/08/2022,80050
+25,Aluguel,476,1,"Armazém A","Locadora SA",29/03/2023,20550
+26,"Ar Condicionado",217,30,"Armazém B",Frigelar,08/06/2022,2170
+27,"Energia Eletrica",456,20,"Armazém D","EDP Brasil",29/05/2022,300500
+28,Aluguel,476,2,"Armazém A","Locadora SA",27/11/2022,20550
+29,"Seguro Carga",875,1,"Armazém A","Porto Seguro",27/11/2022,1970
+30,"Energia Eletrica",456,1,"Armazém C","EDP Brasil",30/01/2022,300500
+31,Limpeza,134,1,"Armazém D",MilClean,29/05/2022,10200
+32,Limpeza,134,1,"Armazém B",MilClean,02/11/2022,10200
+33,"Energia Eletrica",456,2,"Armazém C","EDP Brasil",10/07/2023,300500
+34,"Seguro Carga",875,1,"Armazém A","Porto Seguro",23/08/2022,1970
+35,Agua,579,1,"Armazém B",SABESP,22/04/2022,80050
+36,"Energia Eletrica",456,10,"Armazém A","EDP Brasil",22/04/2022,300500
+37,"Seguro Local",147,1,"Armazém D","Mapfre Seguros",08/06/2022,2100
+38,"Ar Condicionado",217,20,"Armazém D",Frigelar,08/08/2022,2170
+39,"Seguro Local",147,2,"Armazém D","Mapfre Seguros",03/03/2022,2100
+40,Aluguel,476,20,"Armazém B","Locadora SA",22/04/2022,20550
+41,Aluguel,476,2,"Armazém A","Locadora SA",27/11/2022,20550
+42,"Seguro Local",147,2,"Armazém B","Mapfre Seguros",08/06/2022,2100
+43,"Seguro Carga",875,1,"Armazém B","Porto Seguro",28/10/2022,1970
+44,IPTU,102,1,"Armazém C","Prefeitura Municipal",28/10/2022,24000
+45,"Energia Eletrica",456,10,"Armazém B","EDP Brasil",02/11/2022,300500
+46,IPTU,102,2,"Armazém B","Prefeitura Municipal",29/03/2023,24000
+47,Limpeza,134,1,"Armazém B",MilClean,22/04/2022,10200
+48,Limpeza,134,2,"Armazém A",MilClean,16/12/2023,10200
+49,"Seguro Local",147,30,"Armazém C","Mapfre Seguros",22/04/2022,2100
+50,Limpeza,134,30,"Armazém A",MilClean,14/08/2022,10200
+51,IPTU,102,30,"Armazém A","Prefeitura Municipal",15/08/2022,24000
+52,"Seguro Carga",875,10,"Armazém B","Porto Seguro",16/12/2023,1970
+53,"Seguro Carga",875,20,"Armazém B","Porto Seguro",21/03/2023,1970
+54,"Energia Eletrica",456,20,"Armazém C","EDP Brasil",08/06/2022,300500
+55,"Energia Eletrica",456,20,"Armazém A","EDP Brasil",29/03/2023,300500
+56,Agua,579,10,"Armazém C",SABESP,08/06/2022,80050
+57,Limpeza,134,2,"Armazém D",MilClean,29/03/2023,10200
+58,"Energia Eletrica",456,10,"Armazém C","EDP Brasil",14/09/2022,300500
+59,"Energia Eletrica",456,20,"Armazém A","EDP Brasil",27/11/2022,300500
+60,Aluguel,476,20,"Armazém C","Locadora SA",14/09/2022,20550
+61,IPTU,102,1,"Armazém D","Prefeitura Municipal",22/04/2022,24000
+62,Aluguel,476,1,"Armazém C","Locadora SA",15/08/2022,20550
+63,"Ar Condicionado",217,1,"Armazém C",Frigelar,08/06/2022,2170
+64,"Seguro Carga",875,20,"Armazém D","Porto Seguro",15/08/2022,1970
+65,Limpeza,134,2,"Armazém A",MilClean,27/11/2022,10200
+66,"Ar Condicionado",217,1,"Armazém B",Frigelar,02/11/2022,2170
+67,"Ar Condicionado",217,2,"Armazém D",Frigelar,29/05/2022,2170
+68,"Seguro Carga",875,1,"Armazém A","Porto Seguro",23/08/2022,1970
+69,Agua,579,1,"Armazém D",SABESP,29/03/2023,80050
+70,Aluguel,476,20,"Armazém A","Locadora SA",16/12/2023,20550
+71,IPTU,102,1,"Armazém B","Prefeitura Municipal",29/05/2022,24000
+72,"Seguro Carga",875,10,"Armazém D","Porto Seguro",29/05/2022,1970
+73,Agua,579,20,"Armazém A",SABESP,30/01/2022,80050
+74,Limpeza,134,20,"Armazém D",MilClean,16/12/2023,10200
+75,Limpeza,134,10,"Armazém C",MilClean,25/05/2022,10200
+76,"Seguro Local",147,1,"Armazém D","Mapfre Seguros",29/05/2022,2100
+77,"Energia Eletrica",456,1,"Armazém A","EDP Brasil",09/07/2023,300500
+78,Aluguel,476,1,"Armazém B","Locadora SA",23/08/2022,20550
+79,"Seguro Local",147,10,"Armazém B","Mapfre Seguros",23/08/2022,2100
+80,Limpeza,134,2,"Armazém D",MilClean,29/05/2022,10200
+81,"Ar Condicionado",217,1,"Armazém C",Frigelar,28/10/2022,2170
+82,Aluguel,476,10,"Armazém A","Locadora SA",08/08/2022,20550
+83,"Energia Eletrica",456,20,"Armazém A","EDP Brasil",29/05/2022,300500
+84,"Energia Eletrica",456,30,"Armazém D","EDP Brasil",27/11/2022,300500
+85,"Ar Condicionado",217,2,"Armazém D",Frigelar,01/02/2023,2170
+86,"Seguro Carga",875,30,"Armazém C","Porto Seguro",23/08/2022,1970
+87,"Seguro Local",147,20,"Armazém C","Mapfre Seguros",08/08/2022,2100
+88,"Seguro Carga",875,20,"Armazém B","Porto Seguro",28/10/2022,1970
+89,Aluguel,476,2,"Armazém D","Locadora SA",03/03/2022,20550
+90,"Ar Condicionado",217,1,"Armazém A",Frigelar,08/06/2022,2170
+91,"Seguro Carga",875,20,"Armazém A","Porto Seguro",08/06/2022,1970
+92,"Energia Eletrica",456,10,"Armazém D","EDP Brasil",10/07/2023,300500
+93,IPTU,102,2,"Armazém D","Prefeitura Municipal",29/03/2023,24000
+94,"Seguro Local",147,2,"Armazém A","Mapfre Seguros",22/04/2022,2100
+95,"Energia Eletrica",456,10,"Armazém D","EDP Brasil",28/10/2022,300500
+96,"Energia Eletrica",456,20,"Armazém D","EDP Brasil",10/07/2023,300500
+97,Agua,579,1,"Armazém C",SABESP,03/03/2022,80050
+98,"Seguro Carga",875,10,"Armazém B","Porto Seguro",02/11/2022,1970
+99,"Seguro Carga",875,20,"Armazém B","Porto Seguro",29/05/2022,1970
+100,Limpeza,134,10,"Armazém D",MilClean,08/06/2022,10200
+101,Limpeza,134,20,"Armazém B",MilClean,01/02/2023,10200
+102,IPTU,102,2,"Armazém D","Prefeitura Municipal",14/08/2022,24000
+103,IPTU,102,10,"Armazém B","Prefeitura Municipal",27/11/2022,24000
+104,Agua,579,10,"Armazém D",SABESP,10/07/2023,80050
+105,"Seguro Carga",875,30,"Armazém A","Porto Seguro",25/05/2022,1970
+106,"Seguro Local",147,20,"Armazém B","Mapfre Seguros",14/09/2022,2100
+107,"Seguro Carga",875,1,"Armazém B","Porto Seguro",08/06/2022,1970
+108,"Seguro Local",147,10,"Armazém B","Mapfre Seguros",30/01/2022,2100
+109,Aluguel,476,1,"Armazém C","Locadora SA",29/03/2023,20550
+110,"Energia Eletrica",456,10,"Armazém B","EDP Brasil",15/08/2022,300500
+111,Agua,579,2,"Armazém C",SABESP,25/05/2022,80050
+112,"Energia Eletrica",456,20,"Armazém D","EDP Brasil",16/12/2023,300500
+113,Limpeza,134,20,"Armazém B",MilClean,08/06/2022,10200
+114,Limpeza,134,30,"Armazém D",MilClean,03/03/2022,10200
+115,Aluguel,476,30,"Armazém D","Locadora SA",25/05/2022,20550
+116,Aluguel,476,1,"Armazém C","Locadora SA",09/07/2023,20550
+117,IPTU,102,2,"Armazém A","Prefeitura Municipal",10/07/2023,24000
+118,"Energia Eletrica",456,20,"Armazém C","EDP Brasil",25/05/2022,300500
+119,"Energia Eletrica",456,20,"Armazém A","EDP Brasil",23/08/2022,300500
+120,Agua,579,1,"Armazém B",SABESP,29/03/2023,80050
+121,"Seguro Carga",875,20,"Armazém A","Porto Seguro",22/04/2022,1970
+122,Aluguel,476,2,"Armazém D","Locadora SA",16/12/2023,20550
+123,Aluguel,476,20,"Armazém C","Locadora SA",08/06/2022,20550
+124,IPTU,102,30,"Armazém B","Prefeitura Municipal",30/01/2022,24000
+125,Limpeza,134,20,"Armazém A",MilClean,21/03/2023,10200
+126,Aluguel,476,10,"Armazém C","Locadora SA",28/10/2022,20550
+127,Aluguel,476,10,"Armazém B","Locadora SA",16/12/2023,20550
+128,Limpeza,134,1,"Armazém C",MilClean,08/06/2022,10200
+129,"Seguro Local",147,2,"Armazém A","Mapfre Seguros",01/02/2023,2100
+130,IPTU,102,30,"Armazém D","Prefeitura Municipal",28/10/2022,24000
+131,Limpeza,134,10,"Armazém B",MilClean,08/06/2022,10200
+132,"Seguro Local",147,20,"Armazém D","Mapfre Seguros",16/12/2023,2100
+133,Aluguel,476,30,"Armazém A","Locadora SA",28/10/2022,20550
+134,Aluguel,476,30,"Armazém A","Locadora SA",15/08/2022,20550
+135,"Seguro Local",147,10,"Armazém D","Mapfre Seguros",08/08/2022,2100
+136,"Seguro Local",147,30,"Armazém C","Mapfre Seguros",01/02/2023,2100
+137,Agua,579,2,"Armazém A",SABESP,21/03/2023,80050
+138,Aluguel,476,1,"Armazém C","Locadora SA",08/06/2022,20550
+139,"Seguro Local",147,2,"Armazém B","Mapfre Seguros",27/11/2022,2100
+140,"Seguro Local",147,10,"Armazém B","Mapfre Seguros",14/08/2022,2100
+141,"Seguro Local",147,1,"Armazém B","Mapfre Seguros",16/12/2023,2100
+142,"Ar Condicionado",217,30,"Armazém A",Frigelar,21/03/2023,2170
+143,Agua,579,2,"Armazém D",SABESP,15/08/2022,80050
+144,Agua,579,2,"Armazém A",SABESP,03/03/2022,80050
+145,"Seguro Carga",875,20,"Armazém B","Porto Seguro",08/06/2022,1970
+146,"Seguro Carga",875,10,"Armazém B","Porto Seguro",08/06/2022,1970
+147,Aluguel,476,30,"Armazém A","Locadora SA",08/06/2022,20550
+148,"Seguro Local",147,30,"Armazém D","Mapfre Seguros",30/01/2022,2100
+149,Aluguel,476,10,"Armazém B","Locadora SA",23/08/2022,20550
+150,IPTU,102,10,"Armazém B","Prefeitura Municipal",27/11/2022,24000
+151,IPTU,102,2,"Armazém A","Prefeitura Municipal",16/12/2023,24000
+152,Limpeza,134,30,"Armazém A",MilClean,08/06/2022,10200
+153,IPTU,102,10,"Armazém D","Prefeitura Municipal",08/06/2022,24000
+154,Aluguel,476,2,"Armazém A","Locadora SA",16/12/2023,20550
+155,Aluguel,476,1,"Armazém C","Locadora SA",14/08/2022,20550
+156,"Ar Condicionado",217,30,"Armazém D",Frigelar,01/02/2023,2170
+157,"Seguro Local",147,2,"Armazém C","Mapfre Seguros",02/11/2022,2100
+158,IPTU,102,20,"Armazém D","Prefeitura Municipal",03/03/2022,24000
+159,Limpeza,134,20,"Armazém D",MilClean,14/09/2022,10200
+160,Agua,579,1,"Armazém C",SABESP,21/03/2023,80050
+161,Agua,579,20,"Armazém A",SABESP,14/08/2022,80050
+162,"Energia Eletrica",456,30,"Armazém C","EDP Brasil",30/01/2022,300500
+163,Agua,579,1,"Armazém A",SABESP,28/10/2022,80050
+164,"Seguro Carga",875,30,"Armazém D","Porto Seguro",23/08/2022,1970
+165,Limpeza,134,1,"Armazém C",MilClean,15/08/2022,10200
+166,IPTU,102,20,"Armazém D","Prefeitura Municipal",08/06/2022,24000
+167,"Ar Condicionado",217,1,"Armazém A",Frigelar,01/02/2023,2170
+168,"Seguro Local",147,30,"Armazém C","Mapfre Seguros",29/05/2022,2100
+169,"Seguro Carga",875,1,"Armazém A","Porto Seguro",14/09/2022,1970
+170,"Seguro Carga",875,30,"Armazém A","Porto Seguro",02/11/2022,1970
+171,"Energia Eletrica",456,30,"Armazém B","EDP Brasil",14/09/2022,300500
+172,Limpeza,134,2,"Armazém A",MilClean,15/08/2022,10200
+173,Agua,579,20,"Armazém B",SABESP,29/03/2023,80050
+174,"Ar Condicionado",217,30,"Armazém C",Frigelar,01/02/2023,2170
+175,"Seguro Carga",875,1,"Armazém C","Porto Seguro",22/04/2022,1970
+176,"Seguro Local",147,20,"Armazém A","Mapfre Seguros",30/01/2022,2100
+177,Aluguel,476,1,"Armazém C","Locadora SA",15/08/2022,20550
+178,"Seguro Local",147,30,"Armazém D","Mapfre Seguros",14/08/2022,2100
+179,IPTU,102,20,"Armazém A","Prefeitura Municipal",01/02/2023,24000
+180,"Seguro Carga",875,10,"Armazém C","Porto Seguro",25/05/2022,1970
+181,Limpeza,134,30,"Armazém B",MilClean,21/03/2023,10200
+182,"Seguro Carga",875,20,"Armazém A","Porto Seguro",08/08/2022,1970
+183,Limpeza,134,1,"Armazém A",MilClean,08/08/2022,10200
+184,"Ar Condicionado",217,30,"Armazém A",Frigelar,23/08/2022,2170
+185,IPTU,102,20,"Armazém D","Prefeitura Municipal",03/03/2022,24000
+186,"Energia Eletrica",456,30,"Armazém B","EDP Brasil",08/08/2022,300500
+187,IPTU,102,2,"Armazém C","Prefeitura Municipal",03/03/2022,24000
+188,Agua,579,1,"Armazém B",SABESP,08/06/2022,80050
+189,"Seguro Carga",875,30,"Armazém D","Porto Seguro",21/03/2023,1970
+190,"Energia Eletrica",456,10,"Armazém A","EDP Brasil",29/03/2023,300500
+191,Agua,579,20,"Armazém A",SABESP,27/11/2022,80050
+192,IPTU,102,1,"Armazém C","Prefeitura Municipal",29/03/2023,24000
+193,Agua,579,1,"Armazém D",SABESP,16/12/2023,80050
+194,Agua,579,1,"Armazém A",SABESP,29/05/2022,80050
+195,"Seguro Carga",875,20,"Armazém D","Porto Seguro",08/06/2022,1970
+196,"Ar Condicionado",217,2,"Armazém B",Frigelar,29/05/2022,2170
+197,Agua,579,20,"Armazém B",SABESP,27/11/2022,80050
+198,"Energia Eletrica",456,10,"Armazém B","EDP Brasil",14/08/2022,300500
+199,IPTU,102,10,"Armazém D","Prefeitura Municipal",16/12/2023,24000
+200,"Seguro Local",147,10,"Armazém D","Mapfre Seguros",28/10/2022,2100

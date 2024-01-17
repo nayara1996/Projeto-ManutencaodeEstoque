@@ -1,0 +1,201 @@
+Id,MateriaPrima,Quantidade,Codigo,Localizacao,Situacao,Data,ValorUnit,Medida
+1,"Fibra de Carbono",350,MP1050,"Armazém D",Disponível,08/11/2023,3000,Bloco
+2,"Liga de Aço",250,MP1020,"Armazém B",Disponível,31/01/2022,1000,Kilos
+3,"Liga de Titânio",450,MP1030,"Armazém D",Obsoleto,09/02/2023,2000,Bloco
+4,"Fibra de Carbono",150,MP1050,"Armazém A",Disponível,07/01/2022,3000,Bloco
+5,HoneyKomb,50,MP1090,"Armazém B",Depreciado,16/02/2023,800,Bloco
+6,"Liga de Titânio",50,MP1030,"Armazém D","Em processo",26/01/2023,2000,Bloco
+7,"Liga de Aluminio 7075",150,MP7075,"Armazém C",Depreciado,29/05/2023,3500,Kilos
+8,"Liga de Aluminio 7075",500,MP7075,"Armazém C",Obsoleto,28/06/2023,3500,Kilos
+9,Espuma,100,MP1080,"Armazém A",Disponível,25/06/2023,500,Metro
+10,HoneyKomb,50,MP1090,"Armazém C",Obsoleto,30/07/2022,800,Bloco
+11,"Liga de Titânio",150,MP1030,"Armazém C",Depreciado,04/01/2023,2000,Bloco
+12,"Fibra de vidro ",100,MP1040,"Armazém D",Depreciado,21/11/2023,500,Unidade
+13,"Liga de Titânio",350,MP1030,"Armazém C",Disponível,22/02/2023,2000,Bloco
+14,"Liga de Aluminio 7075",250,MP7075,"Armazém B",Disponível,25/06/2023,3500,Kilos
+15,"Liga de Aluminio 7075",350,MP7075,"Armazém B",Depreciado,23/08/2022,3500,Kilos
+16,"Liga de Aço",400,MP1020,"Armazém C",Obsoleto,30/07/2023,1000,Kilos
+17,"Liga de Aço",100,MP1020,"Armazém C",Disponível,19/08/2023,1000,Kilos
+18,"Fibra de vidro ",150,MP1040,"Armazém C","Em processo",09/05/2022,500,Unidade
+19,"Tecido Kevlar",100,MP1070,"Armazém B",Obsoleto,21/04/2023,1500,Metro
+20,"Liga de Aluminio 7075",500,MP7075,"Armazém D",Depreciado,27/11/2023,3500,Kilos
+21,"Fibra de vidro ",350,MP1040,"Armazém C",Obsoleto,30/05/2023,500,Unidade
+22,"Liga de Titânio",150,MP1030,"Armazém C",Depreciado,03/01/2022,2000,Bloco
+23,"Liga de Aço",200,MP1020,"Armazém B","Em processo",14/11/2023,1000,Kilos
+24,"Liga de Aluminio 7075",200,MP7075,"Armazém C",Obsoleto,22/01/2022,3500,Kilos
+25,"Fibra de Carbono",450,MP1050,"Armazém B",Obsoleto,09/11/2023,3000,Bloco
+26,Espuma,300,MP1080,"Armazém D","Em processo",01/02/2023,500,Metro
+27,"Liga de Aluminio 7075",500,MP7075,"Armazém A",Obsoleto,10/08/2022,3500,Kilos
+28,"Liga de Aço",300,MP1020,"Armazém D",Disponível,08/11/2023,1000,Kilos
+29,"Liga de Aluminio 7075",450,MP7075,"Armazém C","Em processo",25/01/2023,3500,Kilos
+30,"Fibra de Carbono",350,MP1050,"Armazém D",Depreciado,05/03/2022,3000,Bloco
+31,"Liga de Aluminio 7075",150,MP7075,"Armazém B",Obsoleto,05/12/2022,3500,Kilos
+32,"Liga de Aluminio 7075",350,MP7075,"Armazém A",Obsoleto,09/12/2022,3500,Kilos
+33,"Liga de Aço",250,MP1020,"Armazém B",Disponível,26/04/2023,1000,Kilos
+34,"Liga de Aço",250,MP1020,"Armazém D","Em processo",08/12/2023,1000,Kilos
+35,"Fibra de vidro ",450,MP1040,"Armazém B",Obsoleto,23/08/2022,500,Unidade
+36,"Liga de Aluminio 7075",450,MP7075,"Armazém A",Obsoleto,19/04/2022,3500,Kilos
+37,"Liga de Titânio",300,MP1030,"Armazém C",Obsoleto,20/04/2023,2000,Bloco
+38,"Fibra de vidro ",100,MP1040,"Armazém C",Depreciado,21/03/2022,500,Unidade
+39,"Fibra de Carbono",300,MP1050,"Armazém C",Depreciado,01/02/2023,3000,Bloco
+40,"Liga de Aluminio 7075",350,MP7075,"Armazém D",Disponível,12/08/2022,3500,Kilos
+41,HoneyKomb,100,MP1090,"Armazém B",Obsoleto,01/02/2023,800,Bloco
+42,"Fibra de Carbono",200,MP1050,"Armazém D","Em processo",04/09/2023,3000,Bloco
+43,"Resina Epoxi",200,MP1060,"Armazém D",Obsoleto,17/02/2023,300,Unidade
+44,"Liga de Aluminio 7075",200,MP7075,"Armazém D",Disponível,19/02/2023,3500,Kilos
+45,"Liga de Aluminio 7075",100,MP7075,"Armazém A","Em processo",01/08/2023,3500,Kilos
+46,"Tecido Kevlar",450,MP1070,"Armazém B",Depreciado,04/01/2023,1500,Metro
+47,"Liga de Aluminio 7075",150,MP7075,"Armazém B",Obsoleto,19/08/2023,3500,Kilos
+48,"Liga de Aço",150,MP1020,"Armazém D",Disponível,15/03/2023,1000,Kilos
+49,"Fibra de vidro ",300,MP1040,"Armazém A",Depreciado,13/03/2022,500,Unidade
+50,HoneyKomb,450,MP1090,"Armazém C",Obsoleto,31/01/2023,800,Bloco
+51,"Fibra de vidro ",350,MP1040,"Armazém C",Depreciado,04/08/2022,500,Unidade
+52,HoneyKomb,100,MP1090,"Armazém D","Em processo",20/02/2023,800,Bloco
+53,"Fibra de vidro ",300,MP1040,"Armazém A",Disponível,16/12/2022,500,Unidade
+54,"Liga de Titânio",400,MP1030,"Armazém B",Disponível,11/06/2023,2000,Bloco
+55,"Liga de Titânio",150,MP1030,"Armazém B",Disponível,24/08/2022,2000,Bloco
+56,"Tecido Kevlar",200,MP1070,"Armazém D",Depreciado,09/03/2023,1500,Metro
+57,Espuma,200,MP1080,"Armazém C","Em processo",03/01/2022,500,Metro
+58,"Liga de Titânio",100,MP1030,"Armazém C",Disponível,06/08/2023,2000,Bloco
+59,"Liga de Aluminio 7075",100,MP7075,"Armazém C",Disponível,01/09/2023,3500,Kilos
+60,HoneyKomb,200,MP1090,"Armazém C",Depreciado,06/04/2023,800,Bloco
+61,"Fibra de vidro ",300,MP1040,"Armazém C",Disponível,10/03/2022,500,Unidade
+62,"Resina Epoxi",350,MP1060,"Armazém B",Disponível,28/03/2023,300,Unidade
+63,"Fibra de vidro ",500,MP1040,"Armazém B",Disponível,12/12/2022,500,Unidade
+64,"Liga de Titânio",200,MP1030,"Armazém C",Disponível,18/03/2023,2000,Bloco
+65,"Fibra de Carbono",150,MP1050,"Armazém D",Disponível,30/11/2023,3000,Bloco
+66,HoneyKomb,400,MP1090,"Armazém D",Obsoleto,23/11/2023,800,Bloco
+67,HoneyKomb,150,MP1090,"Armazém B","Em processo",25/12/2022,800,Bloco
+68,"Tecido Kevlar",250,MP1070,"Armazém B",Disponível,01/09/2023,1500,Metro
+69,HoneyKomb,50,MP1090,"Armazém C",Obsoleto,06/10/2022,800,Bloco
+70,HoneyKomb,400,MP1090,"Armazém D","Em processo",16/02/2023,800,Bloco
+71,"Liga de Aluminio 7075",150,MP7075,"Armazém B",Obsoleto,06/12/2022,3500,Kilos
+72,"Resina Epoxi",350,MP1060,"Armazém C",Depreciado,25/05/2023,300,Unidade
+73,"Liga de Aluminio 7075",500,MP7075,"Armazém D",Depreciado,05/03/2022,3500,Kilos
+74,"Liga de Titânio",50,MP1030,"Armazém D",Disponível,20/02/2023,2000,Bloco
+75,"Tecido Kevlar",350,MP1070,"Armazém A",Disponível,22/04/2023,1500,Metro
+76,"Resina Epoxi",250,MP1060,"Armazém C",Obsoleto,29/06/2022,300,Unidade
+77,HoneyKomb,50,MP1090,"Armazém B","Em processo",31/01/2022,800,Bloco
+78,HoneyKomb,500,MP1090,"Armazém B",Obsoleto,23/01/2022,800,Bloco
+79,"Resina Epoxi",500,MP1060,"Armazém B","Em processo",23/11/2023,300,Unidade
+80,"Liga de Aluminio 7075",200,MP7075,"Armazém D","Em processo",12/07/2023,3500,Kilos
+81,"Liga de Aço",150,MP1020,"Armazém C",Depreciado,01/09/2023,1000,Kilos
+82,HoneyKomb,350,MP1090,"Armazém D","Em processo",07/09/2022,800,Bloco
+83,HoneyKomb,350,MP1090,"Armazém B",Disponível,05/03/2022,800,Bloco
+84,"Liga de Aço",200,MP1020,"Armazém B",Disponível,29/08/2022,1000,Kilos
+85,HoneyKomb,100,MP1090,"Armazém B",Depreciado,19/07/2022,800,Bloco
+86,"Liga de Aluminio 7075",450,MP7075,"Armazém B",Obsoleto,30/01/2023,3500,Kilos
+87,"Liga de Aluminio 7075",350,MP7075,"Armazém A","Em processo",07/04/2022,3500,Kilos
+88,"Tecido Kevlar",100,MP1070,"Armazém B",Obsoleto,28/03/2022,1500,Metro
+89,"Liga de Titânio",250,MP1030,"Armazém A",Disponível,02/05/2023,2000,Bloco
+90,"Fibra de vidro ",100,MP1040,"Armazém C","Em processo",05/09/2022,500,Unidade
+91,"Liga de Titânio",450,MP1030,"Armazém D",Obsoleto,24/12/2022,2000,Bloco
+92,"Resina Epoxi",300,MP1060,"Armazém D",Depreciado,04/06/2023,300,Unidade
+93,"Fibra de Carbono",450,MP1050,"Armazém C",Disponível,01/09/2023,3000,Bloco
+94,"Tecido Kevlar",400,MP1070,"Armazém D",Obsoleto,26/01/2023,1500,Metro
+95,Espuma,50,MP1080,"Armazém C","Em processo",16/12/2022,500,Metro
+96,"Fibra de vidro ",150,MP1040,"Armazém D",Depreciado,13/04/2023,500,Unidade
+97,"Liga de Aluminio 7075",250,MP7075,"Armazém A",Disponível,21/03/2022,3500,Kilos
+98,Espuma,100,MP1080,"Armazém D",Obsoleto,05/03/2022,500,Metro
+99,Espuma,400,MP1080,"Armazém B",Disponível,26/04/2022,500,Metro
+100,HoneyKomb,250,MP1090,"Armazém C",Obsoleto,31/01/2023,800,Bloco
+101,"Resina Epoxi",100,MP1060,"Armazém B",Disponível,01/02/2023,300,Unidade
+102,Espuma,350,MP1080,"Armazém A",Depreciado,16/01/2022,500,Metro
+103,"Liga de Aluminio 7075",500,MP7075,"Armazém C",Disponível,16/07/2022,3500,Kilos
+104,"Fibra de Carbono",250,MP1050,"Armazém C",Obsoleto,04/07/2023,3000,Bloco
+105,"Liga de Aluminio 7075",250,MP7075,"Armazém A","Em processo",13/04/2023,3500,Kilos
+106,"Fibra de vidro ",350,MP1040,"Armazém A",Depreciado,30/07/2022,500,Unidade
+107,"Fibra de Carbono",250,MP1050,"Armazém B",Depreciado,19/08/2022,3000,Bloco
+108,"Fibra de Carbono",350,MP1050,"Armazém A",Obsoleto,07/04/2022,3000,Bloco
+109,"Fibra de vidro ",300,MP1040,"Armazém A","Em processo",16/12/2022,500,Unidade
+110,"Fibra de Carbono",50,MP1050,"Armazém A",Disponível,13/09/2023,3000,Bloco
+111,HoneyKomb,450,MP1090,"Armazém B",Obsoleto,13/03/2022,800,Bloco
+112,"Tecido Kevlar",500,MP1070,"Armazém C",Obsoleto,15/04/2022,1500,Metro
+113,"Resina Epoxi",300,MP1060,"Armazém B","Em processo",27/05/2023,300,Unidade
+114,"Fibra de vidro ",200,MP1040,"Armazém B",Obsoleto,04/08/2022,500,Unidade
+115,"Fibra de Carbono",50,MP1050,"Armazém B","Em processo",16/06/2022,3000,Bloco
+116,HoneyKomb,450,MP1090,"Armazém C",Obsoleto,30/07/2022,800,Bloco
+117,"Fibra de vidro ",450,MP1040,"Armazém A",Disponível,31/07/2022,500,Unidade
+118,"Fibra de vidro ",400,MP1040,"Armazém B","Em processo",31/07/2022,500,Unidade
+119,"Liga de Aluminio 7075",300,MP7075,"Armazém A","Em processo",23/08/2022,3500,Kilos
+120,"Fibra de Carbono",400,MP1050,"Armazém C",Depreciado,01/02/2022,3000,Bloco
+121,Espuma,100,MP1080,"Armazém D",Disponível,25/05/2023,500,Metro
+122,"Tecido Kevlar",200,MP1070,"Armazém D",Obsoleto,23/10/2022,1500,Metro
+123,HoneyKomb,300,MP1090,"Armazém B",Obsoleto,25/05/2023,800,Bloco
+124,"Tecido Kevlar",500,MP1070,"Armazém A",Obsoleto,21/04/2023,1500,Metro
+125,"Resina Epoxi",450,MP1060,"Armazém D",Obsoleto,30/07/2022,300,Unidade
+126,"Liga de Aluminio 7075",100,MP7075,"Armazém B",Disponível,10/07/2022,3500,Kilos
+127,"Liga de Aluminio 7075",350,MP7075,"Armazém D",Obsoleto,09/07/2022,3500,Kilos
+128,HoneyKomb,200,MP1090,"Armazém A",Obsoleto,26/05/2022,800,Bloco
+129,"Resina Epoxi",250,MP1060,"Armazém C",Depreciado,23/08/2023,300,Unidade
+130,"Tecido Kevlar",450,MP1070,"Armazém B",Disponível,05/12/2022,1500,Metro
+131,Espuma,100,MP1080,"Armazém B",Depreciado,26/05/2022,500,Metro
+132,"Tecido Kevlar",500,MP1070,"Armazém D",Depreciado,25/11/2023,1500,Metro
+133,"Fibra de Carbono",250,MP1050,"Armazém D",Disponível,16/04/2022,3000,Bloco
+134,"Liga de Aluminio 7075",150,MP7075,"Armazém C",Depreciado,10/03/2022,3500,Kilos
+135,HoneyKomb,100,MP1090,"Armazém A","Em processo",24/08/2022,800,Bloco
+136,"Liga de Aço",200,MP1020,"Armazém D",Depreciado,13/03/2022,1000,Kilos
+137,Espuma,150,MP1080,"Armazém C",Disponível,02/12/2023,500,Metro
+138,"Liga de Titânio",500,MP1030,"Armazém D",Depreciado,20/12/2022,2000,Bloco
+139,Espuma,100,MP1080,"Armazém D",Disponível,25/11/2023,500,Metro
+140,"Resina Epoxi",350,MP1060,"Armazém C",Depreciado,09/12/2023,300,Unidade
+141,Espuma,350,MP1080,"Armazém D",Disponível,19/02/2023,500,Metro
+142,"Resina Epoxi",100,MP1060,"Armazém D",Obsoleto,05/01/2022,300,Unidade
+143,"Liga de Titânio",100,MP1030,"Armazém D",Obsoleto,09/11/2023,2000,Bloco
+144,"Liga de Aço",350,MP1020,"Armazém B",Obsoleto,15/09/2023,1000,Kilos
+145,"Resina Epoxi",300,MP1060,"Armazém C",Depreciado,22/04/2023,300,Unidade
+146,"Fibra de vidro ",250,MP1040,"Armazém A","Em processo",27/05/2023,500,Unidade
+147,"Resina Epoxi",50,MP1060,"Armazém D",Disponível,12/05/2022,300,Unidade
+148,"Fibra de Carbono",500,MP1050,"Armazém A",Disponível,11/08/2022,3000,Bloco
+149,HoneyKomb,150,MP1090,"Armazém A",Disponível,02/02/2022,800,Bloco
+150,"Fibra de Carbono",150,MP1050,"Armazém C",Obsoleto,03/06/2022,3000,Bloco
+151,"Resina Epoxi",100,MP1060,"Armazém B","Em processo",23/08/2022,300,Unidade
+152,"Liga de Aço",250,MP1020,"Armazém D",Depreciado,23/08/2023,1000,Kilos
+153,Espuma,50,MP1080,"Armazém C",Obsoleto,31/01/2023,500,Metro
+154,Espuma,400,MP1080,"Armazém A",Depreciado,24/08/2022,500,Metro
+155,"Liga de Aço",350,MP1020,"Armazém A",Obsoleto,02/07/2023,1000,Kilos
+156,"Liga de Aluminio 7075",150,MP7075,"Armazém C","Em processo",31/01/2023,3500,Kilos
+157,"Liga de Aço",200,MP1020,"Armazém B",Disponível,14/08/2023,1000,Kilos
+158,HoneyKomb,500,MP1090,"Armazém B",Depreciado,27/11/2023,800,Bloco
+159,"Fibra de Carbono",100,MP1050,"Armazém B",Disponível,23/08/2022,3000,Bloco
+160,"Fibra de vidro ",100,MP1040,"Armazém D",Depreciado,30/11/2023,500,Unidade
+161,"Resina Epoxi",500,MP1060,"Armazém C",Disponível,29/03/2022,300,Unidade
+162,"Fibra de vidro ",100,MP1040,"Armazém D","Em processo",16/08/2023,500,Unidade
+163,"Tecido Kevlar",150,MP1070,"Armazém D",Disponível,06/08/2022,1500,Metro
+164,"Liga de Aço",300,MP1020,"Armazém B",Depreciado,31/01/2023,1000,Kilos
+165,HoneyKomb,100,MP1090,"Armazém B","Em processo",05/11/2022,800,Bloco
+166,"Liga de Aluminio 7075",500,MP7075,"Armazém B",Disponível,19/11/2023,3500,Kilos
+167,HoneyKomb,250,MP1090,"Armazém A",Depreciado,31/01/2023,800,Bloco
+168,HoneyKomb,350,MP1090,"Armazém C",Disponível,25/05/2023,800,Bloco
+169,"Fibra de vidro ",400,MP1040,"Armazém D",Disponível,25/05/2022,500,Unidade
+170,"Resina Epoxi",500,MP1060,"Armazém D","Em processo",09/05/2022,300,Unidade
+171,HoneyKomb,350,MP1090,"Armazém C",Disponível,21/03/2022,800,Bloco
+172,"Liga de Aluminio 7075",150,MP7075,"Armazém A","Em processo",04/07/2023,3500,Kilos
+173,"Fibra de Carbono",200,MP1050,"Armazém A",Depreciado,11/06/2023,3000,Bloco
+174,"Liga de Aluminio 7075",300,MP7075,"Armazém C",Obsoleto,24/08/2022,3500,Kilos
+175,Espuma,200,MP1080,"Armazém B",Obsoleto,26/04/2023,500,Metro
+176,"Liga de Titânio",250,MP1030,"Armazém C",Obsoleto,03/03/2023,2000,Bloco
+177,"Liga de Aluminio 7075",150,MP7075,"Armazém B",Depreciado,03/06/2023,3500,Kilos
+178,"Fibra de vidro ",250,MP1040,"Armazém C",Depreciado,19/02/2023,500,Unidade
+179,"Resina Epoxi",200,MP1060,"Armazém D",Depreciado,23/10/2022,300,Unidade
+180,HoneyKomb,50,MP1090,"Armazém C","Em processo",07/02/2023,800,Bloco
+181,"Fibra de vidro ",400,MP1040,"Armazém B",Obsoleto,30/11/2023,500,Unidade
+182,"Liga de Titânio",500,MP1030,"Armazém C","Em processo",21/09/2023,2000,Bloco
+183,"Tecido Kevlar",50,MP1070,"Armazém A",Obsoleto,28/03/2022,1500,Metro
+184,"Fibra de vidro ",350,MP1040,"Armazém A","Em processo",09/03/2023,500,Unidade
+185,"Fibra de vidro ",400,MP1040,"Armazém B","Em processo",15/10/2022,500,Unidade
+186,"Liga de Titânio",500,MP1030,"Armazém B",Obsoleto,28/10/2022,2000,Bloco
+187,"Fibra de vidro ",250,MP1040,"Armazém B",Disponível,15/03/2023,500,Unidade
+188,"Fibra de vidro ",350,MP1040,"Armazém B","Em processo",09/12/2023,500,Unidade
+189,"Tecido Kevlar",250,MP1070,"Armazém C",Disponível,20/02/2022,1500,Metro
+190,"Liga de Aluminio 7075",200,MP7075,"Armazém C",Obsoleto,24/08/2022,3500,Kilos
+191,"Liga de Aço",250,MP1020,"Armazém B",Depreciado,31/01/2023,1000,Kilos
+192,"Fibra de Carbono",350,MP1050,"Armazém B",Disponível,30/05/2023,3000,Bloco
+193,Espuma,250,MP1080,"Armazém D",Disponível,20/02/2023,500,Metro
+194,"Tecido Kevlar",350,MP1070,"Armazém D",Disponível,24/05/2023,1500,Metro
+195,"Fibra de vidro ",250,MP1040,"Armazém D","Em processo",24/05/2022,500,Unidade
+196,Espuma,250,MP1080,"Armazém C",Obsoleto,08/12/2023,500,Metro
+197,"Fibra de vidro ",100,MP1040,"Armazém C",Obsoleto,03/11/2022,500,Unidade
+198,"Fibra de vidro ",250,MP1040,"Armazém B",Disponível,02/11/2023,500,Unidade
+199,"Liga de Titânio",300,MP1030,"Armazém D","Em processo",01/02/2023,2000,Bloco
+200,"Fibra de Carbono",300,MP1050,"Armazém C",Depreciado,27/11/2023,3000,Bloco
