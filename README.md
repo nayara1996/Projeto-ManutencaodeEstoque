@@ -1,16 +1,9 @@
-<<<<<<< docs
+
 # Projeto de manutenção de estoque, Gama Academy e Embraer  - Grupo 7
 
 Site de apresentação com itens do projeto que o grupo desenvolveu para  Gama Academy e Embraer.
 
 
-
-
-
-
-
-## Tarefas organizadas no Trello:
-<img width="1421" alt="" src="https://trello.com/b/fMDvvLjh/projeto-integrador">
 
 ___
 
@@ -27,22 +20,18 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 ## 🛠️ Construído com
 
-* [React e Typescript](http:///) - O framework web usado
-* [Styled-components](https:///) - Usada para personalizar e componentizar CSS
-* [Axios](https:///) - Otimização de sintaxe para consumo de APIs
-* [Jest](https:///) - Testes Unitários
-* [API](https://dummyjson.com/docs/products/) - API externa para produtos
+* Python
+* MySQL
+
 
 De que coisas você precisa para instalar o software e como instalá-lo?
 
-- [Node](https://) - 
+
 - [Visual Studio](https://) - 
 - [SQL](https://) - 
 - [Python](https://) - 
 - [Power Bi](https://) - 
-- [HTML / CSS](https://) - 
-- [Javascript](https://) - 
-- [Modelagem 3D](https://) - 
+
 
 
 ## ✒️ Autoras
@@ -54,20 +43,3 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 * **Power BI e Excel**  -  [Lidia](https://gist.github.com/) 
 * **Back-end**  -  [Monique](https://gist.github.com/) 
 
-
-## 📄 Licença
-
-MIT
-
-## 🎁 Expressões de gratidão
-
-* 
-
----
-=======
-# Projeto de manutenção de estoque, Gama Academy e Embraer  - Grupo 7
-
-## Tecnologias utilizadas
-
-##
->>>>>>> main
